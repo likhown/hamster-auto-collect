@@ -1,0 +1,16 @@
+{
+  "name": "screenshot-telegram-bot",
+  "version": "1.0.0",
+  "description": "A Node.js script that takes screenshots using API Flash and sends them to a Telegram bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "MADE BY @GAJARBOTOLX",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "express": "^4.18.2",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
